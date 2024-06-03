@@ -15,7 +15,7 @@ public class PullingJamp : MonoBehaviour
     void Start()
     {
         rb = gameObject.GetComponent<Rigidbody>();
-        // rb = GetComponent<Rigidbody>();  //gameObject‚ÍÈ—ª‰Â”\
+        // rb = GetComponent<Rigidbody>();  // gameObject‚ÍÈ—ª‰Â”\
     }
 
     // Update is called once per frame
